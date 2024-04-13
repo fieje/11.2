@@ -1,0 +1,5 @@
+1,Smith,2,"Computer Science"
+2,Johnson,1,"Informatics"
+3,Williams,3,"Mathematics and Economics"
+4,Jones,2,"Physics and Informatics"
+5,Brown,1,"Computer Science"

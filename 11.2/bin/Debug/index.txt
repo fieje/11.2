@@ -1,0 +1,5 @@
+"Computer Science",Smith,2
+"Informatics",Johnson,1
+"Mathematics and Economics",Williams,3
+"Physics and Informatics",Jones,2
+"Computer Science",Brown,1
